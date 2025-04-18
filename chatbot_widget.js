@@ -814,7 +814,7 @@
             MRMessageIcon.className = "message-icon";
             MRMessageIcon.innerHTML = `
                                 <img 
-                                    src="https://d1olhs2thomfrd.cloudfront.net/bot-open.png" 
+                                    src="./bot-open.png" 
                                     style="width: 60px; height: 60px;" 
                                     alt="Message Icon"
                                 />
@@ -825,7 +825,7 @@
 
             MRCloseIcon.innerHTML = `
                                 <img 
-                                    src="https://d1olhs2thomfrd.cloudfront.net/bot-close.png" 
+                                    src="./bot-close.png" 
                                     style="width: 60px; height: 60px;" 
                                     alt="Message Icon"
                                 />
